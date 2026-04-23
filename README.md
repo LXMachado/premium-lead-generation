@@ -6,6 +6,10 @@ Premium, conversion-focused landing page built with React + Vite.
 Original design reference:
 https://www.figma.com/design/bt46l1tggcaNZw3lGRlBu4/Premium-Lead-Generation-Landing-Page
 
+## Project Screenshot
+
+![ConvertPro landing page screenshot](src/assets/convertpro-screenshot.png)
+
 ## Project Overview
 
 This repository contains a single-page marketing site designed for lead generation agencies and service businesses. It uses a dark premium visual style, motion-heavy section reveals, and clear conversion-focused CTAs.
