@@ -3,8 +3,6 @@
 
 Premium, conversion-focused landing page built with React + Vite.
 
-Original design reference:
-https://www.figma.com/design/bt46l1tggcaNZw3lGRlBu4/Premium-Lead-Generation-Landing-Page
 
 ## Project Screenshot
 
